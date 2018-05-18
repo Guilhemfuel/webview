@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Quiz For Fun",
+    "version": "1.0.0",
+    "slug": "quiz-for-fun",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.guilhem.quizforfun"
+    },
+    "android": {
+      "package": "com.guilhem.quizforfun"
+    }
+  }
+}
